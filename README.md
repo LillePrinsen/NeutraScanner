@@ -44,7 +44,7 @@ It runs entirely on the Windows PowerShell 5.1 that ships with every modern Wind
 
 <div align="center">
 
-<img src="<img width="1358" height="860" alt="image" src="https://github.com/user-attachments/assets/a4829da4-3024-4465-ba3e-e0884adb7f29" alt="NeutraScan interface" width="90%" />
+<img width="1358" height="860" alt="image" src="https://github.com/user-attachments/assets/a4829da4-3024-4465-ba3e-e0884adb7f29" alt="NeutraScan interface" width="90%" />
 
 <sub><i>The NeutraScan interface — Network Scan tab with the GitHub Dark theme applied.</i></sub>
 
