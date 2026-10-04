@@ -111,9 +111,6 @@ notepad install.ps1
 ```powershell
 # 1. Install
 irm https://neutraco.vercel.app/install.ps1 | iex
-
-# 2. Launch from Start Menu, or:
-& "$env:LOCALAPPDATA\NeutraScan\NeutraScan.bat"
 ```
 
 Then, in the app:
