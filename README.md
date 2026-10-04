@@ -1,17 +1,3 @@
-Here's a fully styled README. Save as `README.md` at the repo root.
-
-Two images you'll want to add to the repo first:
-
-- `assets/banner.png` — wide 1280×320 banner (dark background, logo, tagline)
-- `assets/screenshot.png` — a screenshot of the app
-
-If you don't have them yet, the README still works; you'll just see broken images until you upload them.
-
-```markdown
-<div align="center">
-
-<img src="assets/banner.png" alt="NeutraScan" width="100%" />
-
 # NeutraScan
 
 **Scan. Identify. Control.**
