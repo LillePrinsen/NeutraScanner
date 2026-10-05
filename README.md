@@ -110,7 +110,7 @@ notepad install.ps1
 
 ```powershell
 # 1. Install
-irm https://neutraco.vercel.app/install.ps1 | iex
+irm https://raw.githubusercontent.com/LillePrinsen/NeutraScanner/main/NeutraScan.ps1 | iex
 ```
 
 Then, in the app:
